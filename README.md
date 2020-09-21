@@ -1,4 +1,4 @@
-# ds_salary_project
+# Salary Prediction
 
 ## resources
 https://www.kaggle.com/elroyggj/indeed-dataset-data-scientistanalystengineer
